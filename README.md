@@ -1,0 +1,123 @@
+
+
+# Test H1
+## Test H2
+### Test H3
+#### Test H4
+##### Test H5
+###### Test H6
+
+# Underlines
+Underline
+---
+Underline 2
+===
+
+# Formatos de enfasis
+- Formato *texto* Italica 1
+- Formato _texto_ Italica 2
+- Formato texto Normal 
+- Formato **texto** Bold 1
+- Formato __texto__ Bold 1
+- Formato ~~texto~~ Tachado
+- Formato *italico* **bold** y  ~~tachado~~
+- Formato mix **~~_se usar mas de 1_~~**
+
+# Listas
+1. Esto es un item de lista ordenada.
+2. Esto es un item de lista ordenada.
+3. Esto es un item de lista ordenada.
+
+- Esto es un item de lista ordenada.
+- Esto es un item de lista ordenada.
+- Esto es un item de lista ordenada.
+
+# Link
+- <a href="http://google.cl">Link HTML </a>
+- [Link en Markdowmn](http://google.cl)
+- [Link al index](index.html)
+
+
+# Imagenes
+![Logo Github](data:image/png;base64,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)
+
+![Logo Github](data:image/png;base64,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)
+
+# snipcodes
+[highlight demos](https://highlightjs.org/static/demo)
+
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+# Tablas
+Nombre | Apellido | Documento 
+-- | -- | --
+ Maxi| Burgos | hkhgkhgkggkgghkgwueiorqiur23
+Tomas | Jonsonghghjghjgjhgj| oireowto4 
+1|2|3
+
+# Citas (espacio de separación)
+un texto referente a una Cita:
+> Cita 1
+
+Este es otra cita:
+> Cita 2.
+
+# Lineas Horizontales
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+---
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+___
+
+***
+
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+# Saltos de Linea
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto
+
+Texto Texto Texto  Texto  Texto
+
+Texto Texto Texto  Texto  Texto
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
+
+Texto Texto Texto  Texto  Texto 
